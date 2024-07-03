@@ -7,9 +7,10 @@ Mint Classics Company is considering closing one of its storage facilities to st
 # Project Report
 Under work.........
 
+  Warehouses Table
 | warehouseCode  | warehouseName | warehousePctCap |
 | -------------- | ------------- | --------------- |
 |        a       |     North     |        72       |
-| b  | East  | 67 |
-| c  | West  | 50 |
-| d  | South  | 75 |
+|        b       |      East     |        67       |
+|        c       |      West     |        50       |
+|        d       |     South     |        75       |
