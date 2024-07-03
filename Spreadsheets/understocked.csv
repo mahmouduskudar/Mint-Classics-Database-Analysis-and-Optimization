@@ -1,0 +1,10 @@
+productCode,productName,warehouseCode,quantityInStock,total_ordered_item,total_revenue,avg_monthly_sales,good_stock_level_sales,avg_monthly_revenue,productScale,inventory_status,action
+S32_1374,"1997 BMW F650 ST",a,178,1014,89364.89,56,676,4965,1:32,Understocked,Increase
+S50_4713,"2002 Yamaha YZR M1",a,600,992,73670.64,55,661,4093,1:50,Understocked,Increase
+S24_2000,"1960 BSA Gold Star DBD34",a,15,1015,67193.49,56,677,3733,1:24,Understocked,Increase
+S700_3167,"F/A 18 Hornet 1/72",a,551,1047,76618.40,58,698,4257,1:72,Understocked,Increase
+S12_1099,"1968 Ford Mustang",b,68,933,161531.48,52,622,8974,1:12,Understocked,Increase
+S18_2248,"1911 Ford Town Car",c,540,832,45306.77,46,555,2517,1:18,Understocked,Increase
+S32_4289,"1928 Ford Phaeton Deluxe",c,136,972,60493.33,54,648,3361,1:32,Understocked,Increase
+S18_2795,"1928 Mercedes-Benz SSK",c,548,880,132275.98,49,587,7349,1:18,Understocked,Increase
+S72_3212,"Pont Yacht",d,414,958,47550.40,53,639,2642,1:72,Understocked,Increase
