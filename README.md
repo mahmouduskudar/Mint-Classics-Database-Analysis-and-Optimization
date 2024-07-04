@@ -49,4 +49,22 @@ Under work.........
 | S18_2949    | 1913 Ford Model T Speedster         | Vintage Cars  | 1:18         | Carousel DieCast Legends | 4189            | c             | 60.78    | 101.31 |
 | S18_1749    | 1917 Grand Touring Sedan            | Vintage Cars  | 1:18         | Welly Diecast Productions| 2724            | c             | 86.70    | 170.00 |
 
+
+### Product Lines Table
+
+```sql
+   SELECT productLine FROM mintclassics.productlines
+   LIMIT 10
+```
+
+| productLine       |
+|-------------------|
+| Classic Cars      |
+| Motorcycles       |
+| Planes            |
+| Ships             |
+| Trains            |
+| Trucks and Buses  |
+| Vintage Cars      |
+
 </details>
