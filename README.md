@@ -30,6 +30,7 @@ Under work.........
 
 <details>
 <summary>Products Table</summary>
+   
 ### Products Table
 
 ```sql
@@ -54,6 +55,10 @@ Under work.........
 
 </details>
 
+
+<details>
+<summary>Product Lines Table</summary>
+   
 ### Product Lines Table
 
 ```sql
@@ -71,6 +76,10 @@ Under work.........
 | Trucks and Buses  |
 | Vintage Cars      |
 
+</details>
+
+<details>
+<summary>Orders Table</summary>
 
 ### Orders Table
 
@@ -94,7 +103,12 @@ Under work.........
 | 10219       | 2004-02-10  | 2004-02-17   | 2004-02-12  | Shipped   | 487            |
 | 10149       | 2003-09-12  | 2003-09-18   | 2003-09-17  | Shipped   | 487            |
 
+</details>
 
+
+<details>
+<summary>Order Details Table</summary>
+   
 ### Order Details Table
 
 ```sql
