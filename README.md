@@ -11,10 +11,9 @@ Under work.........
 
 
 <details>
+<summary> All Tables</summary>
 
-<summary># All Tables</summary>
-
-## Warehouses Table
+### Warehouses Table
 
 | warehouseCode  | warehouseName | warehousePctCap |
 | -------------- | ------------- | --------------- |
@@ -22,5 +21,4 @@ Under work.........
 |        b       |      East     |        67       |
 |        c       |      West     |        50       |
 |        d       |     South     |        75       |
-
 </details>
