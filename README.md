@@ -11,7 +11,7 @@ Under work.........
 
 
 <details>
-<summary>### Warehouses Table</summary>
+<summary>Warehouses Table</summary>
 
 ### Warehouses Table
 
@@ -25,8 +25,11 @@ Under work.........
 |        b       |      East     |        67       |
 |        c       |      West     |        50       |
 |        d       |     South     |        75       |
+</details>
 
 
+<details>
+<summary>Products Table</summary>
 ### Products Table
 
 ```sql
@@ -49,6 +52,7 @@ Under work.........
 | S18_2949    | 1913 Ford Model T Speedster         | Vintage Cars  | 1:18         | Carousel DieCast Legends | 4189            | c             | 60.78    | 101.31 |
 | S18_1749    | 1917 Grand Touring Sedan            | Vintage Cars  | 1:18         | Welly Diecast Productions| 2724            | c             | 86.70    | 170.00 |
 
+</details>
 
 ### Product Lines Table
 
