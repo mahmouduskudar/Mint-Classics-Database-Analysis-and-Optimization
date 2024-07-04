@@ -11,7 +11,7 @@ Under work.........
 
 
 <details>
-<summary> All Tables</summary>
+<summary> Original Tables</summary>
 
 ### Warehouses Table
 
@@ -66,5 +66,29 @@ Under work.........
 | Trains            |
 | Trucks and Buses  |
 | Vintage Cars      |
+
+
+### Orders Table
+
+```sql
+   SELECT orderNumber, orderDate, requiredDate, shippedDate, status, customerNumber
+   FROM mintclassics.orders
+   order by customerNumber DESC
+   LIMIT 10
+```
+
+| orderNumber | orderDate   | requiredDate | shippedDate | status    | customerNumber |
+|-------------|-------------|--------------|-------------|-----------|----------------|
+| 10399       | 2005-04-01  | 2005-04-12   | 2005-04-03  | Shipped   | 496            |
+| 10138       | 2003-07-07  | 2003-07-16   | 2003-07-13  | Shipped   | 496            |
+| 10179       | 2003-11-11  | 2003-11-17   | 2003-11-13  | Cancelled | 496            |
+| 10360       | 2004-12-16  | 2004-12-22   | 2004-12-18  | Shipped   | 496            |
+| 10207       | 2003-12-09  | 2003-12-17   | 2003-12-11  | Shipped   | 495            |
+| 10243       | 2004-04-26  | 2004-05-03   | 2004-04-28  | Shipped   | 495            |
+| 10213       | 2004-01-22  | 2004-01-28   | 2004-01-27  | Shipped   | 489            |
+| 10186       | 2003-11-14  | 2003-11-20   | 2003-11-18  | Shipped   | 489            |
+| 10219       | 2004-02-10  | 2004-02-17   | 2004-02-12  | Shipped   | 487            |
+| 10149       | 2003-09-12  | 2003-09-18   | 2003-09-17  | Shipped   | 487            |
+
 
 </details>
