@@ -16,7 +16,7 @@ Under work.........
 ### Warehouses Table
 
 ```sql
-   SELECT " * FROM mintclassics.warehouses"
+   SELECT * FROM mintclassics.warehouses;
 ```
 
 | warehouseCode  | warehouseName | warehousePctCap |
