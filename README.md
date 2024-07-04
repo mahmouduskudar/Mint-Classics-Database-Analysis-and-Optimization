@@ -25,4 +25,19 @@ Under work.........
 |        b       |      East     |        67       |
 |        c       |      West     |        50       |
 |        d       |     South     |        75       |
+
+
+### Products Table
+
+```sql
+   SELECT productCode, productName, productLine, productScale, productVendor, quantityInStock, warehouseCode, buyPrice, MSRP FROM mintclassics.products
+   order by productName
+   LIMIT 10
+```
+
+| productCode | productName                         | productLine   | productScale | productVendor            | quantityInStock | warehouseCode | buyPrice | MSRP   |
+|-------------|-------------------------------------|---------------|--------------|--------------------------|-----------------|---------------|----------|--------|
+| S24_2011    | 18th century schooner               | Ships         | 1:24         | Carousel DieCast Legends | 1898            | d             | 82.34    | 122.89 |
+
+
 </details>
