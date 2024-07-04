@@ -11,7 +11,7 @@ Under work.........
 
 
 <details>
-<summary> Original Tables</summary>
+<summary>### Warehouses Table</summary>
 
 ### Warehouses Table
 
