@@ -15,6 +15,10 @@ Under work.........
 
 ### Warehouses Table
 
+```sql
+   SELECT " * FROM mintclassics.warehouses"
+```
+
 | warehouseCode  | warehouseName | warehousePctCap |
 | -------------- | ------------- | --------------- |
 |        a       |     North     |        72       |
