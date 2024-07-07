@@ -8,8 +8,9 @@ Mint Classics Company is considering closing one of its storage facilities to st
 Under work.........
 
 
-
-
+<details>
+<summary>Original Tables</summary>
+   
 <details>
 <summary>Warehouses Table</summary>
 
@@ -129,4 +130,5 @@ Under work.........
 | 10102       | S18_1342    | 39              | 95.55     | 2                |
 | 10102       | S18_1367    | 41              | 43.13     | 1                |
 
+</details>
 </details>
