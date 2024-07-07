@@ -64,7 +64,6 @@ Under work.........
 
 ```sql
    SELECT productLine FROM mintclassics.productlines
-   LIMIT 10
 ```
 
 | productLine       |
