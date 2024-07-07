@@ -136,10 +136,10 @@ Under work.........
 <details>
 <summary>Customers Table</summary>
    
-### Order Details Table
+### Customers Table
 
 ```sql
-   SELECT * FROM mintclassics.orderdetails
+   SELECT * FROM mintclassics.customers
    LIMIT 10
 ```
 
@@ -155,6 +155,86 @@ Under work.........
 | 128            | Blauer See Auto, Co.         | Keitel            | Roland           | +49 69 66 90 2555 | Lyonerstr. 34                | Frankfurt     | NULL     | 60528      | Germany   | 1504                   | 59700       |
 | 129            | Mini Wheels Co.              | Murphy            | Julie            | 6505555787        | 5557 North Pendale Street    | San Francisco | CA       | 94217      | USA       | 1165                   | 64600       |
 | 131            | Land of Toys Inc.            | Lee               | Kwai             | 2125557818        | 897 Long Airport Avenue      | NYC           | NY       | 10022      | USA       | 1323                   | 114900      |
+
+
+</details>
+
+<details>
+<summary>Payments Table</summary>
+   
+### Payments Table
+
+```sql
+   SELECT * FROM mintclassics.payments
+   LIMIT 10
+```
+
+
+| customerNumber | checkNumber | paymentDate | amount   |
+|----------------|-------------|-------------|----------|
+| 103            | HQ336336    | 19-10-04    | 6066.78  |
+| 103            | JM555205    | 05-06-03    | 14571.44 |
+| 103            | OM314933    | 18-12-04    | 1676.14  |
+| 112            | BO864823    | 17-12-04    | 14191.12 |
+| 112            | HQ55022     | 06-06-03    | 32641.98 |
+| 112            | ND748579    | 20-08-04    | 33347.88 |
+| 114            | GG31455     | 20-05-03    | 45864.03 |
+| 114            | MA765515    | 15-12-04    | 82261.22 |
+| 114            | NP603840    | 31-05-03    | 7565.08  |
+| 114            | NR27552     | 10-03-04    | 44894.74 |
+
+
+</details>
+
+<details>
+<summary>Employees Table</summary>
+   
+### Employees Table
+
+```sql
+   SELECT * FROM mintclassics.employees
+   LIMIT 10
+```
+
+
+| employeeNumber | lastName  | firstName | extension | email                           | officeCode | reportsTo | jobTitle                |
+|----------------|-----------|-----------|-----------|---------------------------------|------------|-----------|-------------------------|
+| 1002           | Murphy    | Diane     | x5800     | dmurphy@classicmodelcars.com    | 1          | NULL      | President               |
+| 1056           | Patterson | Mary      | x4611     | mpatterso@classicmodelcars.com  | 1          | 1002      | VP Sales                |
+| 1076           | Firrelli  | Jeff      | x9273     | jfirrelli@classicmodelcars.com  | 1          | 1002      | VP Marketing            |
+| 1088           | Patterson | William   | x4871     | wpatterson@classicmodelcars.com | 6          | 1056      | Sales Manager (APAC)    |
+| 1102           | Bondur    | Gerard    | x5408     | gbondur@classicmodelcars.com    | 4          | 1056      | Sales Manager (EMEA)    |
+| 1143           | Bow       | Anthony   | x5428     | abow@classicmodelcars.com       | 1          | 1056      | Sales Manager (NA)      |
+| 1165           | Jennings  | Leslie    | x3291     | ljennings@classicmodelcars.com  | 1          | 1143      | Sales Rep               |
+| 1166           | Thompson  | Leslie    | x4065     | lthompson@classicmodelcars.com  | 1          | 1143      | Sales Rep               |
+| 1188           | Firrelli  | Julie     | x2173     | jfirrelli@classicmodelcars.com  | 2          | 1143      | Sales Rep               |
+| 1216           | Patterson | Steve     | x4334     | spatterson@classicmodelcars.com | 2          | 1143      | Sales Rep               |
+
+
+
+</details>
+
+<details>
+<summary>Offices Table</summary>
+   
+### Offices Table
+
+```sql
+   SELECT * FROM mintclassics.offices
+```
+
+
+
+| officeCode | city          | phone            | addressLine1            | addressLine2 | state | country    | postalCode | territory |
+|------------|---------------|------------------|-------------------------|--------------|-------|------------|------------|-----------|
+| 1          | San Francisco | +1 650 219 4782  | 100 Market Street       | Suite 300    | CA    | USA        | 94080      | NA        |
+| 2          | Boston        | +1 215 837 0825  | 1550 Court Place        | Suite 102    | MA    | USA        | 02107      | NA        |
+| 3          | NYC           | +1 212 555 3000  | 523 East 53rd Street    | apt. 5A      | NY    | USA        | 10022      | NA        |
+| 4          | Paris         | +33 14 723 4404  | 43 Rue Jouffroy D'abbans| NULL         | NULL  | France     | 75017      | EMEA      |
+| 5          | Tokyo         | +81 33 224 5000  | 4-1 Kioicho             | NULL         | Chiyoda-Ku | Japan | 102-8578  | Japan     |
+| 6          | Sydney        | +61 2 9264 2451  | 5-11 Wentworth Avenue   | Floor #2     | NULL  | Australia  | NSW 2010   | APAC      |
+| 7          | London        | +44 20 7877 2041 | 25 Old Broad Street     | Level 7      | NULL  | UK         | EC2N 1HN   | EMEA      |
+
 
 
 </details>
