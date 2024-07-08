@@ -1,2 +1,0 @@
-productCode,productName,warehouseCode,quantityInStock,total_ordered_item,total_revenue,avg_monthly_sales,good_stock_level_sales,avg_monthly_revenue,productScale,inventory_status,action
-S18_3233,"1985 Toyota Supra",b,7733,0,0.00,0,0,0,1:18,"Never ordered",Reduce
