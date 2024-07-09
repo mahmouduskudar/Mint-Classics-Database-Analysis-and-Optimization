@@ -1,0 +1,24 @@
+warehouseCode,productCode,quantityInStock,productScale,productline
+d,S72_3212,414,1:72,Ships
+d,S24_2011,1898,1:24,Ships
+d,S700_1938,737,1:700,Ships
+d,S18_3029,4259,1:18,Ships
+d,S700_2047,3501,1:700,Ships
+d,S700_2610,7083,1:700,Ships
+d,S700_3505,1956,1:700,Ships
+d,S700_3962,5088,1:700,Ships
+d,S700_1138,1897,1:700,Ships
+d,S50_1514,1645,1:50,Trains
+d,S18_3259,6450,1:18,Trains
+d,S32_3207,8601,1:32,Trains
+d,S50_1392,1016,1:50,"Trucks and Buses"
+d,S32_3522,814,1:32,"Trucks and Buses"
+d,S32_2509,2874,1:32,"Trucks and Buses"
+d,S32_1268,5099,1:32,"Trucks and Buses"
+d,S24_2300,2327,1:24,"Trucks and Buses"
+d,S18_4600,3128,1:18,"Trucks and Buses"
+d,S18_2432,2018,1:18,"Trucks and Buses"
+d,S18_2319,8258,1:18,"Trucks and Buses"
+d,S18_1097,2613,1:18,"Trucks and Buses"
+d,S12_4473,6125,1:12,"Trucks and Buses"
+d,S12_1666,1579,1:12,"Trucks and Buses"

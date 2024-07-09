@@ -1,0 +1,15 @@
+productCode,warehouseCode,quantityInStock,total_ordered_item,total_revenue,avg_monthly_sales,good_stock_level_sales,avg_monthly_revenue,inventory_status,action
+S24_3949,a,6812,1051,62269.67,58,701,3459,Overstocked,Reduce
+S18_2581,a,992,917,68741.91,51,611,3819,Overstocked,Reduce
+S700_2466,a,9653,984,89347.80,55,656,4964,Overstocked,Reduce
+S24_2360,a,6840,947,57995.25,53,631,3222,Overstocked,Reduce
+S24_4278,a,2756,1009,68276.35,56,673,3793,Overstocked,Reduce
+S700_2834,a,7106,973,102786.38,54,649,5710,Overstocked,Reduce
+S24_1578,a,7003,1033,105266.64,57,689,5848,Overstocked,Reduce
+S32_2206,a,9241,906,33268.76,50,604,1848,Overstocked,Reduce
+S24_1785,a,3627,972,94885.37,54,648,5271,Overstocked,Reduce
+S700_1691,a,5841,894,73871.22,50,596,4104,Overstocked,Reduce
+S72_1253,a,4857,960,42692.53,53,640,2372,Overstocked,Reduce
+S32_4485,a,3341,898,84039.24,50,599,4669,Overstocked,Reduce
+S24_2841,a,5942,940,58434.07,52,627,3246,Overstocked,Reduce
+S700_4002,a,8820,1085,71753.93,60,723,3986,Overstocked,Reduce

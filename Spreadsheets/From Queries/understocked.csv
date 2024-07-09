@@ -1,0 +1,10 @@
+productCode,warehouseCode,quantityInStock,total_ordered_item,avg_monthly_sales,good_stock_level,inventory_status
+S50_4713,a,600,992,55,661,Understocked
+S32_1374,a,178,1014,56,676,Understocked
+S24_2000,a,15,1015,56,677,Understocked
+S700_3167,a,551,1047,58,698,Understocked
+S12_1099,b,68,933,52,622,Understocked
+S18_2248,c,540,832,46,555,Understocked
+S18_2795,c,548,880,49,587,Understocked
+S32_4289,c,136,972,54,648,Understocked
+S72_3212,d,414,958,53,639,Understocked

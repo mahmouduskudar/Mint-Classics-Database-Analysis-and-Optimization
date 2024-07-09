@@ -1,0 +1,12 @@
+warehouseCode,productCode,quantityInStock,productline,productScale
+d,S32_3522,814,"Trucks and Buses",1:32
+d,S50_1392,1016,"Trucks and Buses",1:50
+d,S12_1666,1579,"Trucks and Buses",1:12
+d,S18_2432,2018,"Trucks and Buses",1:18
+d,S24_2300,2327,"Trucks and Buses",1:24
+d,S18_1097,2613,"Trucks and Buses",1:18
+d,S32_2509,2874,"Trucks and Buses",1:32
+d,S18_4600,3128,"Trucks and Buses",1:18
+d,S32_1268,5099,"Trucks and Buses",1:32
+d,S12_4473,6125,"Trucks and Buses",1:12
+d,S18_2319,8258,"Trucks and Buses",1:18
