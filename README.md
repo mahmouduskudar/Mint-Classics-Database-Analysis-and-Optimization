@@ -5,5 +5,5 @@ This project aims to analyze and optimize the inventory management of Mint Class
 Mint Classics Company is considering closing one of its storage facilities to streamline operations and reduce costs while maintaining timely customer service. This project involves a detailed examination of the company's database to provide insights and recommendations on inventory reorganization.
 
 # Project Report
-- [ ] [Visit](https://github.com/mahmouduskudar/Mint-Classics-Database-Analysis-and-Optimization/blob/main/Report)
+- [ ] [Report](https://github.com/mahmouduskudar/Mint-Classics-Database-Analysis-and-Optimization/blob/main/Report)
 - [ ] Needs Final touches.....
